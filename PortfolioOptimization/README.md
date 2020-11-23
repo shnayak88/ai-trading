@@ -10,5 +10,13 @@ Instructions
   B is the factor betas <br/>
   F is the factor covariance matrix <br/>
   S is the idiosyncratic variance matrix <br/>
-  
+ 5) Create Alpha Factors
+    With the profile risk calculated, it's time to start working on the alpha factors. In this project, we'll create the following factors:
+
+      Momentum 1 Year Factor
+      Mean Reversion 5 Day Sector Neutral Factor
+      Mean Reversion 5 Day Sector Neutral Smoothed Factor
+      Overnight Sentiment Factor
+      Overnight Sentiment Smoothed Factor 
+
 

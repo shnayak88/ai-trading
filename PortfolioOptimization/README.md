@@ -18,5 +18,6 @@ Instructions
       Mean Reversion 5 Day Sector Neutral Smoothed Factor <br/>
       Overnight Sentiment Factor <br/>
       Overnight Sentiment Smoothed Factor <br/> 
-
+ 6) We have an alpha model and a risk model. Let's find a portfolio that trades as close as possible to the alpha model but limiting risk as measured by the risk model. We'll be building thie optimizer for this portfolio.
+ 7) Optimize with Regularization Parameter
 

@@ -8,5 +8,5 @@ Instructions:
 4) Remove some of the most common words such as 'the', 'and', 'it. Remove really rare words as well 
 5) Now we have our vocabulary which means we can transform our tokens into ids, which are then passed to our network. 
    Here is a nice diagram showing the network we'd like to build:
-    # Embed -> RNN -> Dense -> Softmax
+    #### Embed -> RNN -> Dense -> Softmax
 6) Run the model on train and test data 

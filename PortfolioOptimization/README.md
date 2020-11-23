@@ -13,10 +13,10 @@ Instructions
  5) Create Alpha Factors
     With the profile risk calculated, it's time to start working on the alpha factors. In this project, we'll create the following factors:
 
-      Momentum 1 Year Factor
-      Mean Reversion 5 Day Sector Neutral Factor
-      Mean Reversion 5 Day Sector Neutral Smoothed Factor
-      Overnight Sentiment Factor
-      Overnight Sentiment Smoothed Factor 
+      Momentum 1 Year Factor <br/>
+      Mean Reversion 5 Day Sector Neutral Factor <br/>
+      Mean Reversion 5 Day Sector Neutral Smoothed Factor <br/>
+      Overnight Sentiment Factor <br/>
+      Overnight Sentiment Smoothed Factor <br/> 
 
 

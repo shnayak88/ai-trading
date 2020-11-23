@@ -13,17 +13,9 @@ Instructions
 Minimize factor risk + idiosyncratic risk - expected portfolio return + transaction costs
 6) Run the backtest - Walk through each day, calculating the optimal portfolio holdings and trade list
 7)Profit and Loss is the aggregate realized daily returns of the assets, weighted by the optimal portfolio holdings chosen, and summed up to get the portfolio's profit and loss.
+  a) The PnL attributed to the alpha factors equals the factor returns times factor exposures for the alpha factors.
+  b) Similarly, the PnL attributed to the risk factors equals the factor returns times factor exposures of the risk factors.
 
-The PnL attributed to the alpha factors equals the factor returns times factor exposures for the alpha factors.
-
-$$
-\mbox{PnL}_{alpha}= f \times b_{alpha}
-$$
-Similarly, the PnL attributed to the risk factors equals the factor returns times factor exposures of the risk factors.
-
-$$
-\mbox{PnL}_{risk} = f \times b_{risk}
-$$
 
 
 
